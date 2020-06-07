@@ -1,2 +1,2 @@
-# Python-projects
-All the projects I did using Python/Jupyter Notebook
+# Analyze A/B Test Results
+Udacity Data Analyst Degree
